@@ -119,6 +119,7 @@ First a genetic algorithm is insantiated with a population size, mutation rate, 
 ## Results and future work
 
 The best hexagon with the best fittness that has been obtained so far is in the 272908-th generation (you read that right). This is because it seems that the algorithm is stuck in a local minima and that's why backtracking methods should be implemented.
+
 ![image](https://user-images.githubusercontent.com/84543584/191972457-0a39585b-0acd-443d-9ce1-53f130ff59e4.png)
 
 Although the fitness is 8, it is a close solution since the sum of rows and diagonals is very close to 8, as demonstrated below:
