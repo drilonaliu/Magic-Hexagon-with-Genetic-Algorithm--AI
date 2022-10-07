@@ -122,6 +122,6 @@ The best hexagon with the best fittness that has been obtained so far is in the 
 
 ![image](https://user-images.githubusercontent.com/84543584/191972457-0a39585b-0acd-443d-9ce1-53f130ff59e4.png)
 
-Although the fitness is 8, it is a close solution since the sum of rows and diagonals is very close to 8, as demonstrated below:
+Although the fitness is 8, it is a close solution since the sum of rows and diagonals is very close to 38, as demonstrated below:
 ![image](https://user-images.githubusercontent.com/84543584/191973105-5fd5b8f8-fde5-434e-9e44-0dfcd49f480f.png)
 
